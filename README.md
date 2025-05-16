@@ -14,8 +14,8 @@ EcoBite is a high-fidelity web application designed to help users efficiently ma
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yui-000/ecobite.git
-cd eco-bite
+git clone https://github.com/Yui-000/sit317-8.2HD.git
+cd sit317-8.2HD
 ```
 
 ### 2. Install dependencies
